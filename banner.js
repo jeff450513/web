@@ -6,8 +6,7 @@ if (q[1] === 'index.html') {
   $('.owl-carousel').owlCarousel(OwlCarousel)
 } else {
   $('.carousel1').removeClass("owl-carousel owl-theme")}
-</script>
-<script>
+
   if (q[1] === 'about-us.html') {
   $('.carousel').addClass("owl-carousel owl-theme")
   $('.owl-carousel').owlCarousel(OwlCarousel)
